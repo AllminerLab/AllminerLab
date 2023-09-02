@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 We are from the AllminerLab, Sun Yat-sen University, and currently working on Graph data mining and its applications, including graph representation learning, graph data clustering, graph-based recommendation systems, etc.
+🔭 We are from the AllminerLab, Sun Yat-sen University, and currently working on Graph data mining and its applications, including graph representation learning, graph data clustering, graph-based recommender systems, etc.
 
 👯 Welcome for pasionate students interested in this field.
 
